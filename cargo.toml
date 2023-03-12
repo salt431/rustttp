@@ -1,0 +1,8 @@
+[package]
+name = "rustttp"
+version = "0.0.1"
+authors = ["netcat420#6708(discord) salt431(github)"]
+
+
+[dependencies]
+base64 = "0.13.0"
